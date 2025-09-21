@@ -7,11 +7,14 @@ Tested on kali linux.
 
 Install:
 Download domain_scan.sh and cd to the directory you installed it in
+
 chmod +x domain_scan.sh
+
 ./domain_scan.sh
 
 Modes:
 1 non aggressive
+
 2 aggressive
 
 Extra:
